@@ -11,7 +11,8 @@ allure-report-*/
 screenshots/
 recordings/
 *.log
-src/test/resources/downloads/
+src/test/resources/downloads/*
+!src/test/resources/downloads/.gitkeep
 
 ### IntelliJ IDEA ###
 .idea/

@@ -10,7 +10,6 @@ allure-report/
 allure-report-*/
 screenshots/
 recordings/
-Logs/
 *.log
 src/test/resources/downloads/
 

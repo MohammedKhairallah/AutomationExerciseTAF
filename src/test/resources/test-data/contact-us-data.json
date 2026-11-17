@@ -1,0 +1,12 @@
+{
+  "contactForm": {
+    "name": "Automation Tester",
+    "email": "contact_test_",
+    "subject": "Test Subject - Automation",
+    "message": "This is a test message for the Contact Us form.",
+    "filePath": "src/test/resources/uploads/test-file.txt"
+  },
+  "messages": {
+    "successMessage": "Success! Your details have been submitted successfully."
+  }
+}

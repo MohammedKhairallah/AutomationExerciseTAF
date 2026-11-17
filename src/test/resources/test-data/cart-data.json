@@ -1,0 +1,60 @@
+{
+  "signup": {
+    "name": "Automation_Checkout",
+    "email": "checkout_test_",
+    "titleMale": "Mr",
+    "titleFemale": "Mrs",
+    "password": "P@ssw0rd",
+    "day": "23",
+    "month": "August",
+    "year": "2000",
+    "firstName": "Automation_Firstname",
+    "lastName": "Automation_Lastname",
+    "companyName": "Automation_Company",
+    "address1": "Automation_Address1",
+    "address2": "Automation_Address2",
+    "country": "United States",
+    "state": "Automation_State",
+    "city": "Automation_City",
+    "zipCode": "12345",
+    "mobileNumber": "1234567890"
+  },
+  "searchProduct": {
+    "name": "Blue Top",
+    "price": "Rs. 500",
+    "quantity": "1",
+    "total": "Rs. 500"
+ },
+  "product1": {
+    "name": "Blue Top",
+    "price": "Rs. 500",
+    "quantity": "1",
+    "total": "Rs. 500"
+  },
+  "product2": {
+    "name": "Men Tshirt",
+    "price": "Rs. 400",
+    "quantity": "1",
+    "total": "Rs. 400"
+  },
+  "recommendedProduct": {
+    "name": "Blue Top",
+    "price": "Rs. 500",
+    "quantity": "1",
+    "total": "Rs. 500"
+  },
+  "quantityTest": {
+    "productId": "1",
+    "productName": "Blue Top",
+    "unitPrice": "Rs. 500",
+    "newQuantity": "4",
+    "expectedTotal": "Rs. 2000"
+  },
+  "subscription": {
+    "email": "subscribe_test_",
+    "successMessage": "You have been successfully subscribed!"
+  },
+  "messages": {
+    "cartAdded": "Your product has been added to cart."
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "productDetails": {
+    "name": "Blue Top",
+    "category": "Category: Women > Tops",
+    "price": "Rs. 500",
+    "availability": "Availability: In Stock",
+    "condition": "Condition: New",
+    "brand": "Brand: Polo"
+  },
+  "reviewData": {
+    "name": "Automation Tester",
+    "email": "automation.tester@example.com",
+    "review": "This is a fantastic product! The quality is excellent and the delivery was fast."
+  },
+  "messages": {
+    "reviewSuccess": "Thank you for your review."
+  }
+}

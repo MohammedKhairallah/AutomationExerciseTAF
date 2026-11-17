@@ -1,0 +1,16 @@
+{
+  "recommendedProduct": {
+    "name": "Blue Top",
+    "price": "Rs. 500"
+  },
+  "subscription": {
+    "email": "subscribe_test_",
+    "successMessage": "You have been successfully subscribed!"
+  },
+  "scrollUp": {
+    "topPageText": "Full-Fledged practice website for Automation Engineers"
+  },
+  "messages": {
+    "cartAdded": "Your product has been added to cart."
+  }
+}

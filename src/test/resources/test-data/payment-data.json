@@ -1,0 +1,56 @@
+{"product": {
+  "name": "Men Tshirt",
+  "price": "Rs. 400",
+  "quantity": "1",
+  "total": "Rs. 400"
+},
+  "checkout": {
+    "orderComment": "Please deliver this order as soon as possible.",
+    "expectedGrandTotal": "Rs. 400",
+    "successMessage": "Your order has been placed successfully!"
+  },
+  "signup": {
+    "name": "Automation_Checkout",
+    "email": "checkout_test_",
+    "titleMale": "Mr",
+    "titleFemale": "Mrs",
+    "password": "P@ssw0rd",
+    "day": "23",
+    "month": "August",
+    "year": "2000",
+    "firstName": "Automation_Firstname",
+    "lastName": "Automation_Lastname",
+    "companyName": "Automation_Company",
+    "address1": "Automation_Address1",
+    "address2": "Automation_Address2",
+    "country": "United States",
+    "state": "Automation_State",
+    "city": "Automation_City",
+    "zipCode": "12345",
+    "mobileNumber": "1234567890"
+  },
+  "login": {
+    "email": "checkout_test_123456789@test.com",
+    "password": "P@ssw0rd"
+  },
+  "payment": {
+    "nameOnCard": "Automation_Checkout",
+    "cardNumber": "4111111111111111",
+    "cvc": "123",
+    "expirationMonth": "12",
+    "expirationYear": "2030"
+  },
+  "invoice": {
+    "expectedFileName": "invoice.txt"
+  },
+  "errorMessages": {
+    "emailAlreadyExists": "Email Address already exist!"
+  },
+  "cartMessages": {
+    "cartAdded": "Your product has been added to cart."
+  },
+  "messages": {
+    "paymentSuccessMsg": "\n\t\t\t\t\t\t\t\t\t\tYour order has been placed successfully!\n\t\t\t\t\t\t\t\t\t",
+    "orderConfirmedMsg": "Congratulations! Your order has been confirmed!"
+  }
+}

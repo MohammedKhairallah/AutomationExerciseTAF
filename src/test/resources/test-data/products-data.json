@@ -1,0 +1,39 @@
+{
+  "searchProduct": {
+    "name": "Blue Top",
+    "price": "Rs. 500",
+    "quantity": "1",
+    "total": "Rs. 500"
+  },
+  "categories": {
+    "womenCategory": "Women",
+    "womenSubCategory": "Dress",
+    "expectedWomenHeader": "Women - Dress Products",
+    "menCategory": "Men",
+    "menSubCategory": "Tshirts",
+    "expectedMenHeader": "Men - Tshirts Products"
+  },
+  "brands": {
+    "firstBrand": "Polo",
+    "expectedFirstBrandHeader": "Brand - Polo Products",
+    "secondBrand": "H&M",
+    "expectedSecondBrandHeader": "Brand - H&M Products"
+  },
+  "products": {
+    "firstProduct": {
+      "name": "Blue Top",
+      "price": "Rs. 500",
+      "quantity": "1",
+      "total": "Rs. 500"
+    },
+    "secondProduct": {
+      "name": "Men Tshirt",
+      "price": "Rs. 400",
+      "quantity": "1",
+      "total": "Rs. 400"
+    }
+  },
+  "messages": {
+    "cartAdded": "Your product has been added to cart."
+  }
+}

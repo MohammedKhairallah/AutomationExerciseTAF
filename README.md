@@ -10,7 +10,7 @@ Test automation framework (Java, Selenium WebDriver, TestNG, Maven, Allure) for 
 - Maven
 - Allure Report
 - Log4j2
-- <<API library, e.g. Rest Assured>>
+- API library, e.g. Rest Assured
 
 ## Features
 
@@ -56,8 +56,6 @@ UI tests for: Signup, Login, Home, Products, Product Details, Cart, Checkout, Pa
 
 ## Author
 **Mohammed Khairallah**
+
 - GitHub: [MohammedKhairallah](https://github.com/MohammedKhairallah)
-- LinkedIn: https://www.linkedin.com/in/mohammed-khairallah/
-**Mohammed Ali**
-- GitHub: [MohammedKhairallah](https://github.com/MohammedKhairallah)
-- LinkedIn: <<your LinkedIn URL>>
+- LinkedIn: [mohammed-khairallah](https://www.linkedin.com/in/mohammed-khairallah/)
